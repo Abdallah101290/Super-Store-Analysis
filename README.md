@@ -43,7 +43,7 @@ To ensure high performance and scalability, the data was restructured into a **S
 - `Dim_Date` – Hierarchical time structure (Year, Quarter, Month, Day)  
 - `Dim_Product` – Product, Sub-Category, and Category details  
 - `Dim_Customer` – Customer Name and Segment  
-- `Dim_Region` – Region and State details  
+
 
 ✅ Relationships were created in a **one-to-many** structure between dimension tables and the fact table.
 
