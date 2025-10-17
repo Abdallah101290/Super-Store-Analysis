@@ -83,13 +83,13 @@ These DAX measures drive all KPIs and visuals within the report.
 ## 🖼️ Dashboard Preview
 
 ### 🔹 Overview Page  
-![Overview Page](scren1.png)
+![Overview Page](Page1.png)
 
 ### 🔹 Orders Page  
-![Orders Page](scren2.png)
+![Orders Page](Page2.png)
 
 ### 🔹 Products Page  
-![Products Page](scren3.png)
+![Products Page](Page3.png)
 
 ---
 
